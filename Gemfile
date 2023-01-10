@@ -79,3 +79,6 @@ gem 'bootstrap', '~> 4.3.1'
 
 # Add Jquery Rails
 gem 'jquery-rails'
+
+# Add Simple Form
+gem 'simple_form'
